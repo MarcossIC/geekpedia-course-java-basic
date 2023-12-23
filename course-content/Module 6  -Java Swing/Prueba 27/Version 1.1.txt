@@ -1,0 +1,28 @@
+import javax.swing.*;
+
+public class Prueba extends JFrame{
+ 
+  private JLabel label1;
+  private JLabel label2;
+
+  public Prueba{
+   setLayout(null);
+   label1 = new JLabel("Interfaz grafica");
+   label1.setBounds(20,15,200,400);
+   add(label1);
+   label2 = new JLabel("Version 1.1");
+   labe2.setBounds(10,65,200,400);
+   add(label2);
+ }
+ 
+ public static void main(String args[]){
+
+  Prueba interfaz = new Prueba();
+  interfaz.setBounds(0,0,300,400);
+  interfaz.setLocationRelativeTo(null);
+  interfaz.setResizable(false);
+  interfaz.setVisible(true);  
+
+ }
+
+}

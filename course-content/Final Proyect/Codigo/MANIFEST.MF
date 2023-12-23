@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Lopez Ikaro
+Main-Class: Bienvenida
+X-COMMENT: Mi primer Proyecto aunque sea de un curso
