@@ -11,3 +11,12 @@ The course is made in Java 8
 <p user-select="none" align="left">
    <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java"/> </a>
 </p>
+
+## What I took away from this course.
+- I learned the basic syntax of Java 8.
+- I learned how to use Flow Control Structures in Java.
+- I learned how to use Arrays in Java.
+- I learned how to use Arrays in Java.
+- I learned how to use basic Swing syntax.
+- I learned how to run Java in the console. Without IDE's
+- Mentalize myself and know what logical thinking is.
